@@ -1,0 +1,46 @@
+body{
+    background-color:#2B76D9 ;
+}
+
+h1{
+    color: #F20544;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+   text-transform: uppercase;
+   font-family: nova;
+   text-shadow: 2px 2px black ;
+}
+
+img{
+    border-top: 2px solid ;
+    border-right: 2px solid ;
+    border-bottom: 2px solid;
+    border-left: 2px solid ;
+    display: block;
+    margin: auto;
+}
+
+h2{
+    color: #0f0407;
+    font-family: cheia;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px#F20544 ;
+
+}
+p{color:#F2CB05 ;
+    font-family: Arial, Helvetica, sans-serif;
+                                                 
+}
+
+
+@font-face {
+    font-family: nova  ;
+    src: url(The\ Wanters\ DEMO.ttf);
+}
+
+@font-face {
+    font-family: cheia ;
+    src: url(WRESTLEMANIA.ttf) ;
+}
+
+    
